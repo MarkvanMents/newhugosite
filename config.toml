@@ -1,4 +1,4 @@
-baseURL = "https://newhugosite.vercel.app"
+baseURL = ""
 languageCode = "en-us"
 title = "Mark's Test HUGO site"
 theme = "ananke"
