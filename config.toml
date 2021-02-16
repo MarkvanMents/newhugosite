@@ -3,18 +3,3 @@ languageCode = "en-us"
 title = "Mark's Test HUGO site"
 theme = "ananke"
 
-# Configuration for blackburn
-[menu]
-  # Shown in the side menu.
-  [[menu.main]]
-    name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
-    weight = 1
-    identifier = "home"
-    url = "/"
-  [[menu.main]]
-    name = "First Category"
-    pre = "<i class='fa fa-list fa-fw'></i>"
-    weight = 2
-    identifier = "post"
-    url = "/firstcategory/"
